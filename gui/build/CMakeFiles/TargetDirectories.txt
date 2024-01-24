@@ -1,0 +1,4 @@
+/home/aymteb/B-YEP-400-BDX-4-1-zappy-luka.camus/gui/build/CMakeFiles/zappy_gui-core.dir
+/home/aymteb/B-YEP-400-BDX-4-1-zappy-luka.camus/gui/build/CMakeFiles/zappy_gui.dir
+/home/aymteb/B-YEP-400-BDX-4-1-zappy-luka.camus/gui/build/CMakeFiles/edit_cache.dir
+/home/aymteb/B-YEP-400-BDX-4-1-zappy-luka.camus/gui/build/CMakeFiles/rebuild_cache.dir
